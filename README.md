@@ -1,2 +1,2 @@
 ## Linear Algebra
-* [Identifying Special Matrices](IdentifyingSpecialMatrices.ipynb)
+* [Identifying Special Matrices](Linear Alegbra/IdentifyingSpecialMatrices.ipynb)
