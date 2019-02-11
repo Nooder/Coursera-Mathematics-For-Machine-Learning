@@ -1,2 +1,3 @@
 ## Linear Algebra
-* [Identifying Special Matrices](Linear-Alegbra/IdentifyingSpecialMatrices.ipynb)
+* [Identifying Special Matrices](Linear-Algebra/IdentifyingSpecialMatrices.ipynb)
+* [Gram-Schmidt Process](Linear-Algebra/GramSchmidtProcess.ipynb)
